@@ -1,0 +1,12 @@
+SANA caption-image LoRA training utilities
+
+The flow-matching and adapter-loading implementation follows APIs and examples
+from Hugging Face Diffusers and NVIDIA SANA, distributed under Apache License 2.0.
+
+References:
+https://github.com/huggingface/diffusers
+https://github.com/NVlabs/Sana
+
+This source package does not include the story dataset, original images, cached
+features, pretrained models, or trained adapters. Dataset and model permissions
+are governed by their respective sources, separately from this code license.

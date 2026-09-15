@@ -1,0 +1,12 @@
+# PyTorch CUDA build is installed separately; see README.md.
+# These core versions were inspected in the existing local environment.
+diffusers==0.40.0
+transformers==5.16.1
+peft==0.20.0
+accelerate==1.14.0
+bitsandbytes==0.50.2
+safetensors==0.8.0
+Pillow==12.0.0
+huggingface-hub==1.29.0
+sentencepiece==0.2.2
+numpy==2.3.5
